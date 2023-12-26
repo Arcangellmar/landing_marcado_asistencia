@@ -1,9 +1,9 @@
-import Titulo from "./titulo";
+import Titulo from "../general/titulo";
 import ProductosCard from "./productos_card";
 
-import producto_1 from '../producto_1.png';
-import producto_2 from '../producto_2.png';
-import producto_3 from '../producto_3.png';
+import producto_1 from '../../img/productos/producto_1.png';
+import producto_2 from '../../img/productos/producto_2.png';
+import producto_3 from '../../img/productos/producto_3.png';
 
 function Productos() {
     return (

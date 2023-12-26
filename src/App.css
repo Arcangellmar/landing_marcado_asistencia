@@ -46,7 +46,7 @@
 
 .landing-home {
   min-height: 100vh;
-  background-image: url("/src/landing_home.jpg");
+  background-image: url("/src/img/landing_home.jpg");
   background-size: cover;
   background-position: center;
 }

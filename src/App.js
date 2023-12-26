@@ -1,11 +1,11 @@
 import './App.css';
 import LandingHome from './components/home';
-import Beneficios from './components/beneficios';
-import Servicios from './components/servicios';
+import Beneficios from './components/beneficios/beneficios';
+import Servicios from './components/servicios/servicios';
 import Footer from './components/footer';
-import Productos from './components/productos';
+import Productos from './components/productos/productos';
 import Contactanos from './components/contactanos';
-import FloatingWhatsApp from './components/floating_whatssapp';
+import FloatingWhatsApp from './components/general/floating_whatssapp';
 
 function App() {
   return (

@@ -1,8 +1,8 @@
-import Titulo from "./titulo";
+import Titulo from "../general/titulo";
 import BeneficiosCard from "./beneficios_card";
 
-import beneficios_1 from '../beneficios_1.png';
-import beneficios_2 from '../beneficios_2.png';
+import beneficios_1 from '../../img/beneficios/beneficios_1.png';
+import beneficios_2 from '../../img/beneficios/beneficios_2.png';
 
 function Beneficios() {
     return (

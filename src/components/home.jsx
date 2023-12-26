@@ -1,7 +1,7 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
-import Titulo from './titulo';
-import Texto from './texto';
-import BotonPrincipal from './boton_principal';
+import Titulo from './general/titulo';
+import Texto from './general/texto';
+import BotonPrincipal from './general/boton_principal';
 
 function LandingHome() {
   return (

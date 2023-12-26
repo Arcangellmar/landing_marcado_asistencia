@@ -1,4 +1,4 @@
-import BotonPrincipal from './boton_principal';
+import BotonPrincipal from '../general/boton_principal';
 
 function BeneficiosCard({icono, titulo, descripcion}) {
     return (

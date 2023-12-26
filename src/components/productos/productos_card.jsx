@@ -1,4 +1,4 @@
-import BotonPrincipal from './boton_principal';
+import BotonPrincipal from '../general/boton_principal';
 
 function ProductoCard({imagen, titulo, subtitulo}) {
     return (

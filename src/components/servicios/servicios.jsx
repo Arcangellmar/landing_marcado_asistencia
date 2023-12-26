@@ -1,8 +1,8 @@
-import Titulo from "./titulo";
+import Titulo from "../general/titulo";
 import ServicioCard from "./servicio_card"
 
-import servicio_1 from '../servicio_1.png';
-import servicio_2 from '../servicio_2.png';
+import servicio_1 from '../../img/servicios/servicio_1.png';
+import servicio_2 from '../../img/servicios/servicio_2.png';
 
 function Servicios() {
     return(
